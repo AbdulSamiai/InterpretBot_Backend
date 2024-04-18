@@ -1,0 +1,12 @@
+fastapi
+sqlalchemy
+uvicorn
+passlib
+python-jose
+openai-whisper
+openai
+langchain
+soundfile
+sounddevice
+python-dotenv
+uvicorn
